@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Try1</string>
+    <string name="put_your_index_finger_on_the_lens_and_be_calm">Put your index finger on the lens and be calm</string>
+    <string name="measure_respiratory_rate">Measure Respiratory Rate</string>
+    <string name="respiratory_rate_displayed_here">Respiratory Rate Displayed Here</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="upload_signs">Upload Signs</string>
+    <string name="heart_rate_displayed_here">Heart Rate Displayed Here</string>
+    <string name="measure_heart_rate">Measure Heart Rate</string>
+    <string name="symptom_logging_page">Symptom Logging Page</string>
+    <string name="upload_symptoms">Upload Symptoms</string>
+</resources>
